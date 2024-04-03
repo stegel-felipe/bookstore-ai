@@ -1,0 +1,32 @@
+TERMOS DE LICENÇA PARA CÓDIGO ABERTO
+
+Este é um acordo legal entre você (pessoa física ou entidade única) e os colaboradores ativos do projeto (doravante referidos como "Detentores do Projeto") para o uso do software disponibilizado neste repositório do GitHub (doravante referido como "Software").
+
+1. LICENÇA DE USO
+
+Os Detentores do Projeto concedem a você uma licença mundial, não exclusiva, revogável, sem royalties, para usar, modificar, reproduzir e distribuir o Software exclusivamente para fins de desenvolvimento de código aberto não comercial e compartilhamento com colaboradores ativos do projeto.
+
+2. RESTRIÇÕES
+
+Você concorda em não utilizar o Software para fins comerciais. Além disso, você concorda em não sublicenciar, vender ou distribuir o Software para terceiros que não sejam colaboradores ativos do projeto, a menos que expressamente autorizado pelos Detentores do Projeto.
+
+3. RESPONSABILIDADE
+
+O Software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo, expressas ou implícitas. Os Detentores do Projeto não serão responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou punitivos decorrentes do uso do Software.
+
+4. PROPRIEDADE INTELECTUAL
+
+Todos os direitos de propriedade intelectual relacionados ao Software são de propriedade dos Detentores do Projeto. Este acordo não concede a você nenhuma propriedade ou direitos de propriedade intelectual sobre o Software, exceto os direitos expressamente concedidos aqui.
+
+5. ALTERAÇÕES DOS TERMOS
+
+Os Detentores do Projeto reservam-se o direito de modificar estes termos a qualquer momento, mediante notificação aos colaboradores ativos do projeto. O uso continuado do Software após tais alterações constituirá sua aceitação dos termos revisados.
+
+6. LEI APLICÁVEL
+
+Este acordo será regido e interpretado de acordo com as leis do [Brasil/SC], excluindo os princípios de conflitos de leis. Quaisquer disputas decorrentes deste acordo serão submetidas à jurisdição exclusiva dos tribunais competentes no [Brasil/SC].
+
+Ao utilizar o Software, você concorda em cumprir estes termos. Se você não concorda com estes termos, não use o Software.
+
+Para esclarecimentos ou dúvidas, entre em contato com os Detentores do Projeto através dos canais de comunicação disponíveis neste repositório.
+
